@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/suren/.vim'
+let g:netrw_dirhist_2='/Users/suren/.vim/bundle'
+let g:netrw_dirhist_3='/Users/suren/.vim/bundle/vundle'
+let g:netrw_dirhist_4='/Users/suren/.vim/bundle/vundle/autoload'
+let g:netrw_dirhist_5='/Users/suren/.vim/bundle/vundle'
+let g:netrw_dirhist_6='/Users/suren/.vim/bundle'
+let g:netrw_dirhist_7='/Users/suren/.vim'
+let g:netrw_dirhist_8='/Users/suren'
