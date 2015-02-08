@@ -1,0 +1,8 @@
+# This is Git's per-user configuration file.
+[core]
+# Please adapt and uncomment the following lines:
+	user = சுரேந்தர்
+	email = suren@Surendhars-MacBook-Air.local
+
+[diff]
+	external = vimdiff
