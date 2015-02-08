@@ -8,6 +8,7 @@
 !.gitconfig
 !.bash_profile
 !.bashrc
+!gitdiffwrap
 # etc...
 
 # ...even if they are in subdirectories
